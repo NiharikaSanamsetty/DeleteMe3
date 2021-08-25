@@ -42,3 +42,8 @@ another list
     2. go for it
 * Push
 * Observe
+
+-----
+Link to [Google](https:\\google.com)
+
+Link to the other page [Second](second.md)
