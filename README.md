@@ -15,4 +15,4 @@ Example of code for `sum` in method `addthen`
 ```
 def f(x):
     y=x+1
-    
+    return y
